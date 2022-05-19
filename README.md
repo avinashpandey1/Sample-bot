@@ -1,1 +1,2 @@
-# Sample-bot
+# gpt3-jabebot
+ Chatbot app
